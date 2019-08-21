@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1012396916851",
+    "firebase_url": "https://univoice-e3d35.firebaseio.com",
+    "project_id": "univoice-e3d35",
+    "storage_bucket": "univoice-e3d35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012396916851:android:b7151993b29a2203",
+        "android_client_info": {
+          "package_name": "com.arandroid.univoice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012396916851-8fh9a178voii7kujr8brcn221fneob7f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arandroid.univoice",
+            "certificate_hash": "ef7b5c4489d3911010c2feff26261922c39a54c3"
+          }
+        },
+        {
+          "client_id": "1012396916851-kq8n8f2c3iai63i9vasca3ngnvuf0k3p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOEkm6BxCocvDW6spCKN_epjyv3dHd1qA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012396916851-kq8n8f2c3iai63i9vasca3ngnvuf0k3p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
