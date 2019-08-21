@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Small Wor(l)d</string>
+    <string name="action_settings">Settings</string>
+    <string name="speech_prompt">Say something…</string>
+    <string name="speech_not_supported">Sorry! Your device doesn\'t support speech input</string>
+    <string name="insert_phone_number">Phone Number</string>
+    <string name="action_sign_in">Sign In</string>
+    <string name="action_sign_out">Sign Out</string>
+    <string name="token">Token</string>
+    <string name="title_activity_chat">ChatActivity</string>
+    <string name="preference_file_key">com.arandroid.univoice</string>
+</resources>
